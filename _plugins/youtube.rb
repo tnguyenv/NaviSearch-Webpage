@@ -1,28 +1,26 @@
-class YouTube < Liquid::Tag
-  Syntax = /^\s*([^\s]+)(\s+(\d+)\s+(\d+)\s*)?/
+module Jekyll
+  class Youtube < Liquid::Tag
+    @url = nil
 
-  def initialize(tagName, markup, tokens)
-    super
+    VIDEO_URL = /(\S+)/i
 
-    if markup =~ Syntax then
-      @id = $1
+    def initialize(tag_name, markup, tokens)
+      super
 
-      if $2.nil? then
-          @width = 560
-          @height = 420
-      else
-          @width = $2.to_i
-          @height = $3.to_i
+      if markup =~ VIDEO_URL
+        @url = $1
       end
-    else
-      raise "No YouTube ID provided in the \"youtube\" tag"
+    end
+
+    def render(context)
+      source = "<div class=\"video\">"
+      source += "<figure>"
+      source += "<iframe width=\"640\" height=\"480\" src=\"//www.youtube.com/embed/#{@url}\" frameborder=\"0\" allowfullscreen></iframe>"
+      source += "</figure>"
+      source += "</div>"
+      source
     end
   end
-
-  def render(context)
-    # "<iframe width=\"#{@width}\" height=\"#{@height}\" src=\"http://www.youtube.com/embed/#{@id}\" frameborder=\"0\"allowfullscreen></iframe>"
-    "<iframe width=\"#{@width}\" height=\"#{@height}\" src=\"http://www.youtube.com/embed/#{@id}?color=white&theme=light\"></iframe>"
-  end
-
-  Liquid::Template.register_tag "youtube", self
 end
+
+Liquid::Template.register_tag('youtube', Jekyll::Youtube)
