@@ -4,8 +4,6 @@ The challenge is to complete the task in the *most efficient* way which might re
 
 {% youtube 8CVmufNN4Dk 560 315 %}
 
-[comment]: <> ([![Demo Video](https://img.youtube.com/vi/8CVmufNN4Dk/0.jpg)](https://www.youtube.com/watch?v=8CVmufNN4Dk))
-
 ## Displays
 - Desktop (2D)
 - HTV Vive (3D VR)
