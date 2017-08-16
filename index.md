@@ -4,6 +4,8 @@ The challenge is to complete the task in the *most efficient* way which might re
 
 {% include youtube.html id="8CVmufNN4Dk" %}
 
+
+
 ## Customization
 ### Displays
 - Desktop (2D)
@@ -24,6 +26,8 @@ The challenge is to complete the task in the *most efficient* way which might re
 ### Vive HMD + NaviChair + Wand
 This is an example of a participant using NaviChair to control their locotion with HMD-on and using Wand Cotroller to collect balls. Note that this video is playing at 2x speed.
 {% include youtube.html id="xBp-ZTYbRzA" %}
+
+
 
 ## Publications
 - Nguyen-Vo, T., Riecke, B. E., & Stuerzlinger, W. (2017). _Moving in a box: Improving spatial orientation in virtual reality using simulated reference frames_. In 2017 IEEE Symposium on 3D User Interfaces (3DUI) (pp. 207–208). [https://doi.org/10.1109/3DUI.2017.7893344](https://doi.org/10.1109/3DUI.2017.7893344)
