@@ -8,7 +8,7 @@ The challenge is to complete the task in the *most efficient* way which might re
 ### Displays
 - Desktop (2D)
 - HTC Vive (3D VR)
-- HTC Vive + [Sparse Periphery Display (SPD)](https://www.microsoft.com/en-us/research/publication/augmenting-field-view-head-mounted-displays-sparse-peripheral-displays/)
+- HTC Vive + [Sparse Periphery Displays (SPD)](https://www.microsoft.com/en-us/research/publication/augmenting-field-view-head-mounted-displays-sparse-peripheral-displays/)
 
 ### Locomotion Interfaces
 - Joystick (2/3 DOFs)
