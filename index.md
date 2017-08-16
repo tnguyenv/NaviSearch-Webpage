@@ -3,7 +3,7 @@ In order to evaluate how well people maintain spatial orientation in VR, we use 
 The challenge is to complete the task in the *most efficient* way which might require them to do the task not only fast but also strategic. That is, people must pay attention on their orientation to complete the task in an efficient way!
 
 {% include youtube.html id="8CVmufNN4Dk" %}
-
+This video demonstrates the task in a light condition where participants can see all the boxes at a time, however, there is no other landmark can be used as orientation cues.
 
 
 ## Customization
@@ -23,10 +23,8 @@ The challenge is to complete the task in the *most efficient* way which might re
 - Keyboard
 - Wand Controller
 
-### Vive HMD + NaviChair + Wand
-This is an example of a participant using NaviChair to control their locotion with HMD-on and using Wand Cotroller to collect balls. Note that this video is playing at 2x speed.
 {% include youtube.html id="xBp-ZTYbRzA" %}
-
+This is an example of a participant using *NaviChair* to control their locotion with *HMD-on* and using *Wand Cotroller* to collect balls. Note that this video is playing at 2x speed.
 
 
 ## Publications
