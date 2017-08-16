@@ -88,7 +88,7 @@ Set initial position of participant to the center of the play ground (circle of 
 - Newmann data integrated (and tested)
 
 ---
-## 1.2
+## [1.2](https://vault.sfu.ca/index.php/s/6YVVzbGSpvpoExl)
 2017 May 05
 
 ### This version is for CVR 2017 which supports:
