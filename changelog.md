@@ -1,12 +1,13 @@
-## 2017 Aug 14 - 3.1.1
--- Reduce fireflies speed to .002 to reduce flickers in SPD
--- Waiting to test on coming participants ('#3)
+## 3.1.1
+2017 Aug 14
+- Reduce fireflies speed to .002 to reduce flickers in SPD
+- Waiting to test on coming participants (#3)
 
 ---
 ## 2017 Aug 13 - 3.1
 - Added Abraham's CounterVection (mirror a part of periphery cameras)
 - Experiment ready
-- Run successfully on participants '#1 and '#2
+- Run successfully on participants (#1 and #2)
 
 ---
 ## 2017 Aug 10 - 3.0
