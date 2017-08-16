@@ -5,6 +5,7 @@
 - Waiting to test on coming participants (#3)
 
 ---
+
 ## 3.1
 2017 Aug 13
 
@@ -13,6 +14,7 @@
 - Run successfully on participants (#1 and #2)
 
 ---
+
 ## 3.0
 2017 Aug 10
 
@@ -35,12 +37,14 @@
 - Update vection to match the scene (white blobs)
 
 ---
+
 ## 2.2
 2017 Jul 18
 
 - Include SPD (v1.0)
 
 ---
+
 ## 2.1.1
 2017 Jun 09
 
@@ -52,6 +56,7 @@
 - There is a mismatch between DM's time (using ticks) and Ted's Newmann (using seconds)
 
 ---
+
 ## 2.1
 2017 Jun 07
 
@@ -63,6 +68,7 @@
 - Include reference to other files: target map, old tracking, newmann tracking
 
 ---
+
 ## 2.0
 2017 Jun 02
 
@@ -83,13 +89,15 @@ Set initial position of participant to the center of the play ground (circle of 
 - Update to 100Hz
 
 ---
+
 ## Missing versions
 
 - Newmann data integrated (and tested)
 
 ---
-## [1.2](https://vault.sfu.ca/index.php/s/6YVVzbGSpvpoExl)
-2017 May 05
+
+## [1.2]
+2017 May 05 - [Download](https://vault.sfu.ca/index.php/s/6YVVzbGSpvpoExl)
 
 ### This version is for CVR 2017 which supports:
 - NaviChair - HMD
@@ -100,5 +108,6 @@ Set initial position of participant to the center of the play ground (circle of 
 ### Data exported includes basic performance metrics (e.g., completion time, travel distance, revisits, etc.)
 
 ---
+
 ## 1.0
 First version used for 802 experiments
