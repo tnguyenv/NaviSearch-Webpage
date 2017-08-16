@@ -96,7 +96,7 @@ Set initial position of participant to the center of the play ground (circle of 
 
 ---
 
-## [1.2]
+## 1.2
 2017 May 05 - [Download](https://vault.sfu.ca/index.php/s/6YVVzbGSpvpoExl)
 
 ### This version is for CVR 2017 which supports:
