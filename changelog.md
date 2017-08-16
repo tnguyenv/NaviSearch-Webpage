@@ -1,37 +1,74 @@
----
-2017 Jul 18
-**Adopted SPD (v1.0)
+## 2017 Aug 14 - 3.1.1
+-- Reduce fireflies speed to .002 to reduce flickers in SPD
+-- Waiting to test on coming participants ('#3)
 
 ---
-2017 Jun 09
-**Update rate to 50Hz (deltaT = .02)
-**Update DM's startTime to match Newmann's startTime
-**Change interface to underwater (using night skybox + bubble particle + sand texture)
-*Known Issue
-**There is a mismatch between DM's time (using ticks) and Ted's Newmann (using seconds)
+## 2017 Aug 13 - 3.1
+- Added Abraham's CounterVection (mirror a part of periphery cameras)
+- Experiment ready
+- Run successfully on participants '#1 and '#2
 
 ---
-2017 Jun 07
-*Update the interface
-***Changing particle system (light angle, up-acceleration, size)
-*Update Summary Plus file
-***Include reference to other files: target map, old tracking, newmann tracking
+## 2017 Aug 10 - 3.0
+### Classes reorganization
+- Central Manager supports most of parameters: display, locomotion, interaction, box visible distance, box exposed distance, etc.
+- Using state machine for the game (e.g., setup, playing, saving, etc.)
+- Parameterize the box exposure distance (min = 10 cm, max = 90 cm)
+- Joystick support controller's touchpad (2DOF case)
+### Interface
+- Shrink grass texture to 50%
+- Reduce firefly's size to 50%
+- Hide target when farther than 2.5 meters (it's a parameter in central manager)
+- Remove the skybox (orientation cues: some stars are brighter than others)
+- Hide passive controller (after activating the main controller by pressing the touchpad)
+- Alarm sound added and only play when participants go too far away from the center, and stop when they backed to the safe zone
+### SPD
+- Reduce brightness (5 to .75)
+- Update vection to match the scene (white blobs)
+
+
 
 ---
-## 2017 Jun 02
+## 2017 Jul 18 - 2.2
+- Include SPD (v1.0)
+
+---
+## 2017 Jun 09 - 2.1.1
+- Update data collector rate to 50Hz (deltaT = .02)
+- Update DM's startTime to match Newmann's startTime
+- Change interface to underwater (using night skybox + bubble particle + sand texture)
+### Known Issue
+- There is a mismatch between DM's time (using ticks) and Ted's Newmann (using seconds)
+
+---
+## 2017 Jun 07 - 2.1
+### Update the interface
+- Changing head light angle
+- Changing particle system (reduce up-acceleration and size)
+### Update Summary file
+- Include reference to other files: target map, old tracking, newmann tracking
+
+---
+## 2017 Jun 02 - 2.0
 ### Update the interface to night mode [as we don't want participants to see all the boxes at a time]
 - New texture for the ground (reduce directional cue)
 - Particle system simulating optical flow (firefly/bubble)
 - Head light added
-### Update start position: center of the play ground (circle of 5m diameter) instead of from outside like previous experiments
-### Added hand-free interface: collect balls by looking at them
-***Done
-***There are sound feedbacks for both collecting and collected states
-***Waiting time can be set from Unity inspector
-*Update sample rate for data collector to 100Hz
+### Update start position
+Set initial position of participant to the center of the play ground (circle of 5m diameter) instead of from outside like previous experiments (as we don't want participants to have an overview of all boxes location)
+### Added hand-free interface
+- Balls can be collected simply by looking at them for a while (3 secs => input parameter)
+- There are _loading_ sound when looking at a ball
+- And another sound when successfully collect a ball
+### Data collector
+- Update to 100Hz
 
 ---
-## 2017 May 5th
+## Missing milestones
+- Newmann data integrated
+
+---
+## 2017 May 05 - 1.2
 This version is for CVR 2017 which supports:
 - NaviChair - HMD
 - Swivel Chair (initial version) - HMD
