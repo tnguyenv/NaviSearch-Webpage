@@ -4,7 +4,6 @@
 
 Ted Nguyen
 [http://nguyenvo.net](http://nguyenvo.net)
-
 [ted@nguyenvo.net](mailto:ted@nguyenvo.net)
 
 ## Affiliation
@@ -14,7 +13,7 @@ Ted Nguyen
 iSpace Research Lab
 [http://ispacelab.com](http://ispacelab.com)
 
-School of Interactive Arts + Technology 
+School of Interactive Arts + Technology
 [http://iat.sfu.ca](http://iat.sfu.ca)
 
 Simon Fraser University
