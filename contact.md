@@ -1,13 +1,17 @@
 # Contact
 
 ## Developers
+
 Ted Nguyen
 [http://nguyenvo.net](http://nguyenvo.net)
 
-## Research Lab
+[ted@nguyenvo.net](mailto:ted@nguyenvo.net)
+
+## Affiliation
+
 ![](http://ispace.iat.sfu.ca/wp-content/themes/ispace/images/logo_bg.gif)
 
-iSpace Lab
+iSpace Research Lab
 [http://ispacelab.com](http://ispacelab.com)
 
 School of Interactive Arts + Technology 
