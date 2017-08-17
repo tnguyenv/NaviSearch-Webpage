@@ -20,7 +20,7 @@ This video demonstrates the task in a light condition where participants can see
 |                 | - Keyboard |
 |                 | - Wand Controller |
 
-### Displays
+<!-- ### Displays
 - Desktop (2D)
 - HTC Vive (3D VR)
 - HTC Vive +
@@ -34,7 +34,7 @@ This video demonstrates the task in a light condition where participants can see
 ### Interactions
 - Handfree
 - Keyboard
-- Wand Controller
+- Wand Controller -->
 
 {% include youtube.html id="xBp-ZTYbRzA" %}
 
