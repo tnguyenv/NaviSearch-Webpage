@@ -1,5 +1,7 @@
 # Download Demo App
 
+![](/images/NaviSearch_Screenshot01.png)
+
 ## Controls
 - W/S: Pitch up/down
 - A/D: Yaw left/right
