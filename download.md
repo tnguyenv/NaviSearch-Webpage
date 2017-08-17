@@ -13,4 +13,4 @@ Left/Right | Move left/right
 
 ## Version 3.0
 - [Mac](https://vault.sfu.ca/index.php/s/TFv6yULEOl9ILtp)
-- Windows x86 \| x64
+- [Windows](https://vault.sfu.ca/index.php/s/ZtuSx6I7B6DMHYY)
