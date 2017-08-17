@@ -106,7 +106,9 @@ Set initial position of participant to the center of the play ground (circle of 
 - Swivel Chair (initial version) - HMD
 - Joystick - HMD
 - Desktop - Keyboard
+
 ### The environment is light but lots of fog (to limit FOV).
+
 ### Data exported includes basic performance metrics (e.g., completion time, travel distance, revisits, etc.)
 
 ---
