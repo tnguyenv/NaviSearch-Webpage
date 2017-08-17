@@ -11,14 +11,19 @@ This video demonstrates the task in a light condition where participants can see
 
 | Display     | - Desktop (2D) |
 |             | - HTC Vive (3D VR) |
-|             | - HTC Vive + Sparse Periphery Displays (SPD)|
-| Locomotion  |                                                                          |
-| Interaction |                                                                          |
+|             | - HTC Vive + [Sparse Periphery Displays (SPD)](https://www.microsoft.com/en-us/research/publication/augmenting-field-view-head-mounted-displays-sparse-peripheral-displays/)|
+| Locomotion  | - Joystick (2/3 DOFs) |
+|             | - HTC Vive Controller Touchpad |
+|             | - NaviChair |
+|             | - Swivel Chair |
+| Interaction | - Handfree |
+|             | - Keyboard |
+|             | - Wand Controller |
 
 ### Displays
 - Desktop (2D)
 - HTC Vive (3D VR)
-- HTC Vive + [Sparse Periphery Displays (SPD)](https://www.microsoft.com/en-us/research/publication/augmenting-field-view-head-mounted-displays-sparse-peripheral-displays/)
+- HTC Vive +
 
 ### Locomotion Interfaces
 - Joystick (2/3 DOFs)
