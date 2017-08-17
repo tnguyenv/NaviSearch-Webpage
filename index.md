@@ -7,7 +7,7 @@ The challenge is to complete the task in the *most efficient* way which might re
 This video demonstrates the task in a light condition where participants can see all the boxes at a time, however, there is no other landmark can be used as orientation cues.
 
 
-## Customization
+<!-- ## Customization
 
 |   *Display*     | - Desktop (2D) |
 |                 | - HTC Vive (3D VR) |
@@ -18,7 +18,7 @@ This video demonstrates the task in a light condition where participants can see
 |                 | - Swivel Chair |
 |   *Interaction* | - Handfree |
 |                 | - Keyboard |
-|                 | - Wand Controller |
+|                 | - Wand Controller | -->
 
 <!-- ### Displays
 - Desktop (2D)
