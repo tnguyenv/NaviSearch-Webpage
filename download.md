@@ -1,7 +1,8 @@
 # Download Demo App
 
+## Screenshot
 ![]({{ '/images/NaviSearch_Screenshot01.png' | relative_url }})
-An application's screenshot
+
 ## Controls
 
 Key | Control
