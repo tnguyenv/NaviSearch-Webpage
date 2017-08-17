@@ -9,8 +9,7 @@ This video demonstrates the task in a light condition where participants can see
 
 ## Customization
 
-| Display     | Desktop (2D) HTC Vive (3D VR) HTC Vive + Sparse Periphery Displays (SPD) |
-|-------------|--------------------------------------------------------------------------|
+| Display     | <ul><li>Desktop (2D)</li> <li>HTC Vive (3D VR)</li> <li>HTC Vive + Sparse Periphery Displays (SPD)</li></ul> |
 | Locomotion  |                                                                          |
 | Interaction |                                                                          |
 
