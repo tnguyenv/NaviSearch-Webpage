@@ -1,10 +1,12 @@
 # Download Demo App
 
+
+
 | Version 3.0 | [Mac](https://vault.sfu.ca/index.php/s/TFv6yULEOl9ILtp) | [Windows](https://vault.sfu.ca/index.php/s/ZtuSx6I7B6DMHYY) |
 
 ![]({{ '/images/NaviSearch_Screenshot01.png' | relative_url }})
 
-## Instruction
+## Instructions
 
 - Press spacebar to start the game
 - Use key press to control translation and rotation
