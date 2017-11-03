@@ -7,6 +7,6 @@ Attach the prefab `Assets/StarField/Prefabs/StarFieldManager.prefab` to your mai
 
 ## Download
 
-<a class="btn" href="/download/StarFieldCreator-Ted.unitypackage">Unity Package</a>
+[![Unity Package](http://icons.iconarchive.com/icons/danrabbit/elementary/128/Button-download-icon.png)](/download/StarFieldCreator-Ted.unitypackage)
 
 [Unity Package](/download/StarFieldCreator-Ted.unitypackage)
