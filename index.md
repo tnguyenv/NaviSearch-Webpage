@@ -10,7 +10,7 @@ This video illustrates what you need to do in the experiment: playing game.
 $30 for the winner and $10 for the 1st and 2nd runner-up. Score board will be updated daily.
 
 
-### Score board
+### Scoreboard
 
 | **First Name**    | **Score**      |
 |   Eurielle        | 3669           |
@@ -37,7 +37,7 @@ Ted Nguyen (tnguyenv@sfu.ca) & Duc-Minh Pham (ducminhp@sfu.ca)
 ### Interactions
 - Handfree
 - Keyboard
-- Wand Controller 
+- Wand Controller
 
 {% include youtube.html id="xBp-ZTYbRzA" %}
 
