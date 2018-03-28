@@ -2,6 +2,8 @@ The current study will improve our understanding of the effect of motion cueing 
 
 {% include youtube.html id="XjglwECr6bA" %}
 
+This video illustrates what you need to do in the experiment: playing game.
+
 ## Top 3 performers will receive cash prizes!
 $30 for the winner and $10 for the 1st and 2nd runner-up. Score board will be updated daily.
 
@@ -12,6 +14,11 @@ $30 for the winner and $10 for the 1st and 2nd runner-up. Score board will be up
 |   Eurielle        | 3669           |
 |   N/A             | 0              |
 |   N/A             | 0              |
+
+# Contact
+Ted Nguyen (tnguyenv@sfu.ca)
+Duc-Minh Pham (ducminhp@sfu.ca)
+**If you cannot register via SFU's SONA, don't hesitate to send us an email!**
 
 <!-- ### Displays
 - Desktop (2D)
