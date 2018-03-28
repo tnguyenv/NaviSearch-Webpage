@@ -19,9 +19,7 @@ $30 for the winner and $10 for the 1st and 2nd runner-up. Score board will be up
 
 # Contact
 
-Ted Nguyen (tnguyenv@sfu.ca)
-
-Duc-Minh Pham (ducminhp@sfu.ca)
+Ted Nguyen (tnguyenv@sfu.ca) & Duc-Minh Pham (ducminhp@sfu.ca)
 
 **If you cannot register via SFU's SONA, don't hesitate to send us an email!**
 
