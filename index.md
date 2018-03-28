@@ -1,3 +1,5 @@
+![]({{ '/images/poster.jpg' | relative_url }})
+
 The current study will improve our understanding of the effect of motion cueing on human spatial orientation and navigational performance in fully immersive virtual environments. Specifically, it will investigate the efficiency of different motion cues in providing users comfortable and intuitive interaction in virtual locomotion. This will ultimately allow us to improve the design of VR locomotion interfaces.
 
 {% include youtube.html id="XjglwECr6bA" %}
