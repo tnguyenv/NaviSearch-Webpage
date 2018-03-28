@@ -2,15 +2,16 @@ The current study will improve our understanding of the effect of motion cueing 
 
 {% include youtube.html id="XjglwECr6bA" %}
 
-*Top 3 performers will receive cash prizes!* $30 for the winner and $10 for the 1st and 2nd runner-up. Score board will be updated below.
+## Top 3 performers will receive cash prizes!
+$30 for the winner and $10 for the 1st and 2nd runner-up. Score board will be updated daily.
 
 
-## Score board
+### Score board
 
-|   *First Name*     | *Score*        |
-|   Eurielle         | 3669           |
-|   N/A              | 0              |
-|   N/A              | 0              |
+| **First Name**    | **Score**      |
+|   Eurielle        | 3669           |
+|   N/A             | 0              |
+|   N/A             | 0              |
 
 <!-- ### Displays
 - Desktop (2D)
@@ -26,7 +27,7 @@ The current study will improve our understanding of the effect of motion cueing 
 ### Interactions
 - Handfree
 - Keyboard
-- Wand Controller -->
+- Wand Controller 
 
 {% include youtube.html id="xBp-ZTYbRzA" %}
 
