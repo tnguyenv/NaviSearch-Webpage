@@ -20,8 +20,8 @@ If you win a prize, we will let you know via email.
 # Contact
 
 Ted Nguyen (tnguyenv@sfu.ca) & Duc-Minh Pham (ducminhp@sfu.ca)
-
 Room 3880, SFU Surrey
+(778) 302-2562
 
 **If you cannot register via neither [SFU's SONA](https://sfu-siat.sona-systems.com/default.aspx?p_return_experiment_id=86) nor [Appointly](https://appoint.ly/s/tnguyenv/navisearch), don't hesitate to send us an email!**
 
