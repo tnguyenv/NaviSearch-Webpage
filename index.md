@@ -15,7 +15,7 @@ $30 for the winner and $10 for the 1st and 2nd runner-up. Score board will be up
 | **First Name**    | **Score**      |
 |   Eurielle        | 3669           |
 |   Mingxuan        | 3081           |
-|   N/A             | 0              |
+|   Sorren          | 1224           |
 
 # Contact
 
