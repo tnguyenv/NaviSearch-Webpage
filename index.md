@@ -7,7 +7,7 @@ The current study will improve our understanding of the effect of motion cueing 
 This video illustrates what you need to do in the experiment: just playing a mini VR game.
 
 ## Top 3 performers will receive cash prizes!
-$30 for the winner and $10 for the 1st and 2nd runner-up. Score board will be updated daily.
+$30 for the winner and $10 for the 1st and 2nd runner-up. Score board will be updated daily.  
 When we finish the experiment, if you win a prize, we will let you know via email.
 
 ### Scoreboard
@@ -19,8 +19,8 @@ When we finish the experiment, if you win a prize, we will let you know via emai
 
 # Contact
 
-Ted Nguyen (tnguyenv@sfu.ca) & Duc-Minh Pham (ducminhp@sfu.ca)
-Room 3880, SFU Surrey
+Ted Nguyen (tnguyenv@sfu.ca) & Duc-Minh Pham (ducminhp@sfu.ca)  
+Room 3880, SFU Surrey  
 (778) 302-2562
 
 **If you cannot register via neither [SFU's SONA](https://sfu-siat.sona-systems.com/default.aspx?p_return_experiment_id=86) nor [Appointly](https://appoint.ly/s/tnguyenv/navisearch), don't hesitate to send us an email!**
