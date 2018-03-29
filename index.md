@@ -8,7 +8,7 @@ This video illustrates what you need to do in the experiment: just playing a min
 
 ## Top 3 performers will receive cash prizes!
 $30 for the winner and $10 for the 1st and 2nd runner-up. Score board will be updated daily.
-
+If you win a prize, we will let you know via email.
 
 ### Scoreboard
 
