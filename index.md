@@ -21,6 +21,8 @@ $30 for the winner and $10 for the 1st and 2nd runner-up. Score board will be up
 
 Ted Nguyen (tnguyenv@sfu.ca) & Duc-Minh Pham (ducminhp@sfu.ca)
 
+Room 3880, SFU Surrey
+
 **If you cannot register via neither [SFU's SONA](https://sfu-siat.sona-systems.com/default.aspx?p_return_experiment_id=86) nor [Appointly](https://appoint.ly/s/tnguyenv/navisearch), don't hesitate to send us an email!**
 
 <!-- ### Displays
