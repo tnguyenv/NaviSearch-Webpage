@@ -13,6 +13,7 @@ When we finish the experiment, if you win a prize, we will let you know via emai
 ### Scoreboard
 
 | **First Name**    | **Score**      |
+|   Derian          | 4934           |
 |   Eurielle        | 3669           |
 |   Mingxuan        | 3081           |
 |   Sorren          | 1224           |
