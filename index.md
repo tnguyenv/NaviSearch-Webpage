@@ -18,6 +18,8 @@ When we finish the experiment, if you win a prize, we will let you know via emai
 |   Mingxuan        | 3081           |
 |   Sorren          | 1224           |
 
+### We also have Oreo and coke for participants. Join us now, for science!
+
 # Contact
 
 Ted Nguyen (tnguyenv@sfu.ca) & Duc-Minh Pham (ducminhp@sfu.ca)  
