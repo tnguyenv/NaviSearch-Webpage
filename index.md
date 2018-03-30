@@ -16,6 +16,7 @@ When we finish the experiment, if you win a prize, we will let you know via emai
 |   Derian          | 4934           |
 |   Eurielle        | 3669           |
 |   Mingxuan        | 3081           |
+|   Cameron         | 2597           |
 |   Sorren          | 1224           |
 
 ## We also have Oreo and coke for participants.
