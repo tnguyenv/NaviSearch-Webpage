@@ -13,11 +13,16 @@ When we finish the experiment, if you win a prize, we will let you know via emai
 ### Scoreboard
 
 | **First Name**    | **Score**      |
-|   Derian          | 4934           |
-|   Eurielle        | 3669           |
-|   Mingxuan        | 3081           |
+|   *Derian*        | 4934           |
+|   *Eurielle*      | 3669           |
+|   *Mingxuan*      | 3081           |
+|   Feral           | 2925           |
 |   Cameron         | 2597           |
+|   YiYue           | 2206           |
+|   Emma            | 1721           |
 |   Sorren          | 1224           |
+|   Emily           | 874            |
+|   Huan            | 839            |
 
 ## We also have Oreo and coke for participants.
 [Join us now, for science!](https://appoint.ly/s/tnguyenv/navisearch)
