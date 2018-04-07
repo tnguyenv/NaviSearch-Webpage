@@ -7,31 +7,40 @@ The current study will improve our understanding of the effect of motion cueing 
 This video illustrates what you need to do in the experiment: just playing a mini VR game.
 
 ## Top 3 performers will receive cash prizes!
-$30 for the winner and $10 for the 1st and 2nd runner-up. Score board will be updated daily.  
-When we finish the experiment, if you win a prize, we will let you know via email.
+$30 for the winner and $10 for the 1st and 2nd runner-up.
 
 ### Scoreboard
 
 | **First Name**    | **Score**      |
 |   *Derian*        | 4934           |
 |   *Eurielle*      | 3669           |
-|   *Katherine*     | 3086           |
+|   *Jo-Lynne*      | 3192           |
+|   Katherine       | 3086           |
 |   Mingxuan        | 3081           |
 |   Feral           | 2925           |
-|   Cameron         | 2597           |
+|   Elgin           | 2668           |
+|   Cameron (Mar 30)| 2597           |
+|   Cameron (Apr 5) | 2575           |
+|   Karen           | 2358           |
 |   YiYue           | 2206           |
 |   Emma            | 1721           |
+|   YunFan          | 1671           |
+|   Dhruv           | 1525           |
 |   Yuanyi          | 1283           |
 |   Sorren          | 1224           |
+|   Aleeze          | 1117           |
+|   Maha            | 1035           |
+|   Wendy           | 1005           |
 |   Erin            | 920            |
 |   Emily           | 874            |
 |   Huan            | 839            |
+|   Damien          | 781            |
+|   Lorry           | 596            |
 |   Grigory         | 556            |
 
-*Updated at 5:30pm April 3rd, 2018*
+*Updated at 6:20pm April 6th, 2018. To protect your privacy, we don't publish full name here. Winners will be contacted shortly!*
 
-## We also have Oreo and coke for participants.
-[Join us now, for science!](https://appoint.ly/s/tnguyenv/navisearch)
+## The experiment is over! Thanks for your interest in our study.
 
 # Contact
 
