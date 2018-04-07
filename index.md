@@ -40,15 +40,13 @@ $30 for the winner and $10 for the 1st and 2nd runner-up.
 
 *Updated at 6:20pm April 6th, 2018. To protect your privacy, we don't publish full name here. Winners will be contacted shortly!*
 
-## The experiment is over! Thanks for your interest in our study.
+## The experiment has been over! Thanks for your interest in our study.
 
-# Contact
+[Ted Nguyen](https://ted.nguyenvo.me)  
+[iSpace Lab](http://ispacelab.com)  
+[School of Interactive Arts + Technology](http://sfu.ca/siat)
+[Simon Fraser University](https://sfu.ca)
 
-Ted Nguyen (tnguyenv@sfu.ca) & Duc-Minh Pham (ducminhp@sfu.ca)  
-Room 3880, SFU Surrey  
-(778) 302-2562
-
-**If you cannot register via neither [SFU's SONA](https://sfu-siat.sona-systems.com/default.aspx?p_return_experiment_id=86) nor [Appointly](https://appoint.ly/s/tnguyenv/navisearch), don't hesitate to send us an email!**
 
 <!-- ### Displays
 - Desktop (2D)
